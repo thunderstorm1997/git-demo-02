@@ -7,5 +7,6 @@ public class test_01 {
         System.out.println("master test");
         System.out.println("Hot fix 2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
